@@ -1,0 +1,4668 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [ {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.48431, 59.94486 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "ул. Осипенко",
+      "number" : 0
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.484308, 59.944884 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 1
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.484807, 59.944893 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 2
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.488756, 59.944961 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 3
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.48959, 59.94499 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 4
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489662, 59.944986 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 5
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489721, 59.944987 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 6
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.48978, 59.944986 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 7
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440332, 59.932096 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "Станция метро \"Ладожская\"",
+      "number" : 8
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.441375, 59.933017 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 9
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.441538, 59.933145 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 10
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.441801, 59.933352 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 11
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.441912, 59.93344 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 12
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.441965, 59.933482 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 13
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442141, 59.933553 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 14
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442189, 59.933591 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 15
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.44222, 59.933616 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 16
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442251, 59.933641 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 17
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442282, 59.933666 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 18
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442311, 59.933692 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 19
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442341, 59.933718 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 20
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442369, 59.933743 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 21
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442398, 59.93377 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 22
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442425, 59.933796 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 23
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442675, 59.934037 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 24
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442704, 59.934064 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 25
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442733, 59.934091 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 26
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442763, 59.934118 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 27
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442793, 59.934144 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 28
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442824, 59.934171 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 29
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442856, 59.934197 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 30
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442888, 59.934223 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 31
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.44292, 59.934249 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 32
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.444779, 59.9357 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 33
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.444911, 59.935798 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 34
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.445053, 59.935892 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 35
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.445205, 59.935981 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 36
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.445366, 59.936067 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 37
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.445536, 59.936148 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 38
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.445714, 59.936225 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 39
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.4459, 59.936297 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 40
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.446093, 59.936364 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 41
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.446293, 59.936425 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 42
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.4465, 59.936482 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 43
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.450525, 59.937512 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 44
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.450644, 59.937545 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 45
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.450759, 59.937583 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 46
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.450868, 59.937626 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 47
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.450969, 59.937672 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 48
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.451064, 59.937722 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 49
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.451151, 59.937775 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 50
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.45123, 59.937832 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 51
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.4513, 59.937891 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 52
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.451361, 59.937952 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 53
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.451889, 59.938542 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 54
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.451994, 59.938644 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 55
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.452061, 59.938696 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 56
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.452114, 59.938736 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 57
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.452253, 59.938821 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 58
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.452409, 59.938899 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 59
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.452569, 59.938963 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 60
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.45258, 59.938967 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 61
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.452765, 59.939027 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 62
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.452962, 59.939076 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 63
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.453167, 59.939115 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 64
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.45338, 59.939143 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 65
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.453606, 59.93916 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 66
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.456913, 59.93932 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 67
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457028, 59.939327 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 68
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457143, 59.939336 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 69
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457257, 59.939348 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 70
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.45737, 59.939362 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 71
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457481, 59.939379 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 72
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457591, 59.939398 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 73
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.4577, 59.939419 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 74
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457806, 59.939443 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 75
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.45791, 59.939469 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 76
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.4657, 59.941506 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 77
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.466063, 59.9416 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 78
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.46661, 59.941741 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 79
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.466707, 59.941768 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 80
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440239, 59.932146 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "Станция метро \"Ладожская\"",
+      "number" : 81
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440239, 59.932146 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 82
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440256, 59.932138 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 83
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.439953, 59.931899 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 84
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.439739, 59.931731 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 85
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.439928, 59.931812 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 86
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440028, 59.931891 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 87
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440301, 59.932106 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 88
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489798, 59.945048 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "пр. Косыгина",
+      "number" : 89
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489784, 59.945022 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 90
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489725, 59.945023 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 91
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489666, 59.945022 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 92
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489589, 59.945022 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 93
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.488836, 59.944996 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 94
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.485028, 59.944935 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 95
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.484861, 59.944932 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 96
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.4823076725006, 59.9355804575252 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "Конечная станция \"Хасанская ул\"",
+      "number" : 97
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.482303, 59.935561 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 98
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.483439, 59.935482 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 99
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.483647, 59.935481 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 100
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.483806, 59.935512 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 101
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.48398, 59.935572 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 102
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.484097, 59.935675 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 103
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.484106, 59.935729 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 104
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.484083, 59.935808 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 105
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.484111, 59.935925 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 106
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.48412, 59.935958 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 107
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.484158, 59.936101 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 108
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.484193, 59.936173 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 109
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.484233, 59.936228 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 110
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.484294, 59.93626 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 111
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.484371, 59.936282 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 112
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.484447, 59.936296 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 113
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.484541, 59.936302 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 114
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.484629, 59.936302 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 115
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.48473, 59.936296 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 116
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.487642, 59.93607 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 117
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.487784, 59.936064 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 118
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.487879, 59.936079 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 119
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.488025, 59.936125 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 120
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.488071, 59.936166 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 121
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.488184, 59.936218 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 122
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.488235, 59.936261 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 123
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.488285, 59.936313 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 124
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.488312, 59.936367 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 125
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.488356, 59.93651 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 126
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.4897910356522, 59.9449528910703 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "пр. Наставников",
+      "number" : 127
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489793, 59.944986 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 128
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489839, 59.944985 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 129
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489898, 59.944983 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 130
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489957, 59.944981 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 131
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490016, 59.944978 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 132
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490042, 59.944976 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 133
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490074, 59.944974 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 134
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490177, 59.944967 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 135
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490328, 59.944945 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 136
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490476, 59.944924 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 137
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490601, 59.944889 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 138
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490644, 59.944856 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 139
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490715, 59.944821 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 140
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490747, 59.944787 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 141
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490763, 59.944759 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 142
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490763, 59.944724 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 143
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490586, 59.944193 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 144
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490297, 59.943243 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 145
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489494, 59.940608 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 146
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489455, 59.940474 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 147
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489433, 59.940397 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 148
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440239, 59.932146 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "Станция метро \"Ладожская\"",
+      "number" : 149
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440239, 59.932146 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 150
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440256, 59.932138 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 151
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.439953, 59.931899 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 152
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.439739, 59.931731 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 153
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.439928, 59.931812 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 154
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440028, 59.931891 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 155
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440301, 59.932106 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 156
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.48813, 59.9363 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "Хасанская ул.",
+      "number" : 157
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.488157, 59.936293 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 158
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.488139, 59.936275 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 159
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.488086, 59.936218 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 160
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.487974, 59.936173 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 161
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.487861, 59.936137 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 162
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.487749, 59.936114 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 163
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.487644, 59.936115 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 164
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.483683, 59.936429 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 165
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.481548, 59.936598 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 166
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.481433, 59.936599 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 167
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.481331, 59.936586 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 168
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.481247, 59.936562 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 169
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.481166, 59.936511 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 170
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.481104, 59.936456 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 171
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.481068, 59.9364 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 172
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.481046, 59.936332 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 173
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.481, 59.936165 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 174
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.480988, 59.936119 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 175
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.480943, 59.936057 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 176
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.480898, 59.936006 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 177
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.480868, 59.935935 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 178
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.480877, 59.935845 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 179
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.480901, 59.935766 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 180
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.481041, 59.935691 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 181
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.481129, 59.935658 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 182
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.481201, 59.935645 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 183
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.481341, 59.935627 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 184
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.482303, 59.935561 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 185
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.484861, 59.944936 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "ул. Осипенко",
+      "number" : 186
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.484861, 59.944932 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 187
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.481733, 59.944872 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 188
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.480595, 59.944851 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 189
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.478898, 59.944819 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 190
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.478845, 59.944817 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 191
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440332, 59.932096 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "Станция метро \"Ладожская\"",
+      "number" : 192
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.46612, 59.94171 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "ул. Передовиков",
+      "number" : 193
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.466165, 59.941665 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 194
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.466031, 59.941631 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 195
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.465668, 59.941537 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 196
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457877, 59.939501 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 197
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457776, 59.939475 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 198
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457672, 59.939452 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 199
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457567, 59.939432 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 200
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457459, 59.939413 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 201
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457351, 59.939397 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 202
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457241, 59.939383 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 203
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.45713, 59.939372 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 204
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457018, 59.939363 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 205
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.456906, 59.939356 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 206
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.453597, 59.939195 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 207
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.453366, 59.939178 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 208
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.453146, 59.939149 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 209
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.452933, 59.939109 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 210
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.45273, 59.939058 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 211
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.452539, 59.938997 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 212
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.452361, 59.938925 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 213
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.4522, 59.938845 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 214
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.452056, 59.938757 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 215
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.451931, 59.938662 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 216
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.451825, 59.938558 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 217
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.451296, 59.937968 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 218
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.451237, 59.937908 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 219
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.45117, 59.937851 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 220
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.451094, 59.937797 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 221
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.45101, 59.937746 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 222
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.450919, 59.937698 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 223
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.450821, 59.937653 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 224
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.450717, 59.937613 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 225
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.450607, 59.937576 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 226
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.450491, 59.937544 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 227
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.446466, 59.936514 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 228
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.446257, 59.936457 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 229
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.446054, 59.936394 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 230
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.445857, 59.936326 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 231
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.445668, 59.936253 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 232
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.445487, 59.936175 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 233
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.445315, 59.936092 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 234
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.445151, 59.936005 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 235
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.444997, 59.935914 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 236
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.444853, 59.935819 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 237
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.444719, 59.93572 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 238
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.44286, 59.934269 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 239
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442827, 59.934242 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 240
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442794, 59.934216 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 241
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442762, 59.934189 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 242
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442731, 59.934162 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 243
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.4427, 59.934135 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 244
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.44267, 59.934108 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 245
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442641, 59.934081 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 246
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442612, 59.934053 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 247
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442362, 59.933812 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 248
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442334, 59.933787 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 249
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442307, 59.933761 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 250
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442278, 59.933735 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 251
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442249, 59.93371 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 252
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.44222, 59.933685 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 253
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.44219, 59.933659 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 254
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.44216, 59.933635 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 255
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442128, 59.93361 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 256
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.441965, 59.933482 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 257
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.441912, 59.93344 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 258
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.441801, 59.933352 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 259
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.441538, 59.933145 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 260
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.441375, 59.933017 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 261
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.46612, 59.94171 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "ул. Передовиков",
+      "number" : 262
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.46612, 59.94171 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 263
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.466165, 59.941665 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 264
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.46603, 59.941631 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 265
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.465726, 59.941552 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 266
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.465626, 59.941526 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 267
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457877, 59.939501 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 268
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457776, 59.939475 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 269
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457672, 59.939452 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 270
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457567, 59.939432 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 271
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457459, 59.939413 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 272
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457351, 59.939397 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 273
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457241, 59.939383 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 274
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.45713, 59.939372 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 275
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.457018, 59.939363 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 276
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.456906, 59.939356 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 277
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.453597, 59.939195 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 278
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.453366, 59.939178 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 279
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.453146, 59.939149 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 280
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.452933, 59.939109 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 281
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.45273, 59.939058 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 282
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.452539, 59.938997 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 283
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.452361, 59.938925 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 284
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.4522, 59.938845 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 285
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.452056, 59.938757 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 286
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.451931, 59.938662 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 287
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.451825, 59.938558 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 288
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.451296, 59.937968 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 289
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.451237, 59.937908 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 290
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.45117, 59.937851 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 291
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.451094, 59.937797 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 292
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.45101, 59.937746 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 293
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.450919, 59.937698 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 294
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.450821, 59.937653 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 295
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.450717, 59.937613 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 296
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.450607, 59.937576 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 297
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.450491, 59.937544 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 298
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.446466, 59.936514 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 299
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.446257, 59.936457 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 300
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.446054, 59.936394 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 301
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.445857, 59.936326 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 302
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.445668, 59.936253 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 303
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.445487, 59.936175 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 304
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.445315, 59.936092 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 305
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.445151, 59.936005 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 306
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.444997, 59.935914 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 307
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.444853, 59.935819 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 308
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.444719, 59.93572 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 309
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.44286, 59.934269 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 310
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442827, 59.934242 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 311
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442794, 59.934216 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 312
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442762, 59.934189 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 313
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442731, 59.934162 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 314
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.4427, 59.934135 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 315
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.44267, 59.934108 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 316
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442641, 59.934081 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 317
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442612, 59.934053 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 318
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442362, 59.933812 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 319
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442334, 59.933787 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 320
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442307, 59.933761 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 321
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442278, 59.933735 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 322
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442249, 59.93371 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 323
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.44222, 59.933685 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 324
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.44219, 59.933659 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 325
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.44216, 59.933635 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 326
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.442128, 59.93361 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 327
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.441965, 59.933482 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 328
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.441912, 59.93344 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 329
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.441801, 59.933352 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 330
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.441538, 59.933145 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 331
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440514, 59.93234 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 332
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440258, 59.93214 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 333
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440332, 59.932096 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "Станция метро \"Ладожская\"",
+      "number" : 334
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440332, 59.932096 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "Станция метро \"Ладожская\"",
+      "number" : 335
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489412, 59.940399 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "Ленская ул.",
+      "number" : 336
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489433, 59.940397 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 337
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489404, 59.940296 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 338
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489361, 59.940153 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 339
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.488286, 59.936571 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 340
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.488225, 59.936381 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 341
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.488186, 59.936322 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 342
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.488157, 59.936293 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 343
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.47884, 59.94486 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "Индустриальный пр.",
+      "number" : 344
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.47884, 59.94486 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 345
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.478845, 59.944817 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 346
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.478742, 59.944814 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 347
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.478587, 59.944805 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 348
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.47857, 59.944804 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 349
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.478433, 59.944793 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 350
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.478251, 59.944776 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 351
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.478129, 59.944756 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 352
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.47798, 59.944732 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 353
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.477926, 59.944722 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 354
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.477834, 59.944705 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 355
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.47769, 59.944674 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 356
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.47755, 59.94464 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 357
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.477499, 59.944626 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 358
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.476426, 59.944346 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 359
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.46827, 59.942218 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 360
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.466898, 59.94185 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 361
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.466165, 59.941665 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 362
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489557, 59.940574 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "Ленская ул.",
+      "number" : 363
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489599, 59.940571 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 364
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489607, 59.940599 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 365
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489653, 59.94075 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 366
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490401, 59.943236 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 367
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490685, 59.944182 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 368
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490863, 59.944716 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 369
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490856, 59.944777 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 370
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490821, 59.944827 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 371
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490792, 59.94485 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 372
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490774, 59.944864 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 373
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490728, 59.944889 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 374
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490662, 59.944915 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 375
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490633, 59.944933 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 376
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490582, 59.944945 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 377
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490479, 59.944967 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 378
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490337, 59.944986 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 379
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490227, 59.945 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 380
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490078, 59.94501 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 381
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.490019, 59.945014 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 382
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489961, 59.945017 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 383
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489902, 59.945019 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 384
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489843, 59.945021 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 385
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489796, 59.945022 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 386
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.46677, 59.94171 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "ул. Передовиков",
+      "number" : 387
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.466707, 59.941768 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 388
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.468357, 59.942219 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 389
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.476402, 59.944299 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 390
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.476861, 59.944419 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 391
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.477122, 59.944487 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 392
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440239, 59.932146 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "Станция метро \"Ладожская\"",
+      "number" : 393
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440256, 59.932138 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 394
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.439953, 59.931899 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 395
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.439739, 59.931731 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 396
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.439928, 59.931812 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 397
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440028, 59.931891 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 398
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.440301, 59.932106 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 399
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.47715, 59.944461 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "Индустриальный пр.",
+      "number" : 400
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.477122, 59.944487 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 401
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.47753, 59.944594 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 402
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.477583, 59.944608 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 403
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.47772, 59.944641 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 404
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.477861, 59.944672 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 405
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.477913, 59.944681 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 406
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.478003, 59.944698 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 407
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.478149, 59.944722 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 408
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.478287, 59.94474 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 409
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.478446, 59.944757 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 410
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.47856, 59.944766 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 411
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.478597, 59.944769 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 412
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.478748, 59.944778 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 413
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.478901, 59.944783 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 414
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.48182, 59.944838 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 415
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.483944, 59.944878 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 416
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.484308, 59.944884 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 417
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.48835, 59.93651 ]
+    },
+    "properties" : {
+      "Type" : "Halt",
+      "name" : "пр. Наставников",
+      "number" : 418
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.488356, 59.93651 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 419
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.488374, 59.936569 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 420
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489514, 59.940288 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 421
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489568, 59.940466 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 422
+    }
+  }, {
+    "type" : "Feature",
+    "geometry" : {
+      "type" : "Point",
+      "coordinates" : [ 30.489599, 59.940571 ]
+    },
+    "properties" : {
+      "Type" : "point",
+      "name" : "point",
+      "number" : 423
+    }
+  } ]
+}
